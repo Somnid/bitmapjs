@@ -1,7 +1,10 @@
 bitmapjs
 ========
 
-The Bitmap object is an intermediate format that hold the raw bitmap data.
+To get a Bitmap Object
+----------------------
+
+The Bitmap object is an intermediate format that holds the raw bitmap data.
 
 Bitmap.fromArrayBuffer(arrayBuffer)
 
