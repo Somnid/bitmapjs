@@ -6,13 +6,13 @@ To get a Bitmap Object
 
 The Bitmap object is an intermediate format that holds the raw bitmap data.
 
-Bitmap.fromArrayBuffer(arrayBuffer)
+Create Bitmap from ArrayBuffer:
 
-  Create Bitmap from ArrayBuffer
+	Bitmap.fromArrayBuffer(arrayBuffer)
 
-Bitmap.fromCanvas(HtmlCanvas)
-
-  Create Bitmap from a canvas element
+Create Bitmap from a canvas element
+	
+	Bitmap.fromCanvas(HtmlCanvas)
   
 Once you have a Bitmap Object
 -----------------------------
